@@ -11,5 +11,5 @@ Left mouse button - you are starting the game
 ![](GUI.png)
 
 # Configuration enviroment
-Project is using SFML libraries. Tutorial: \ 
+Project is using SFML libraries. Tutorial: 
 https://www.sfml-dev.org/tutorials/2.6/
