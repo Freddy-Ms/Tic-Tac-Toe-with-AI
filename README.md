@@ -5,7 +5,7 @@ The higher the depth is the stronger bot is.
 AI is implemented using minimax algorithm with alfa-beta pruning.
 
 # GUI
-Right mouse button - letting AI start the game \
+Right mouse button - letting AI starts the game \
 Left mouse button - you are starting the game
 
 ![](GUI.png)
