@@ -8,7 +8,7 @@ AI is implemented using minimax algorithm with alfa-beta pruning.
 Right mouse button - letting AI starts the game \
 Left mouse button - you are starting the game
 
-![](GUI.png)
+![](Screenshots/GUI.png)
 
 # Configuration enviroment
 Project is using SFML libraries. Tutorial: 
